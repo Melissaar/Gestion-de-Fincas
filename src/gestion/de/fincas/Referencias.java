@@ -9,13 +9,16 @@ package gestion.de.fincas;
  *
  * @author SENA
  */
-public class GestionDeFincas {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here            
+public class Referencias {
+    
+    private Inquilino Inquilino1;
+    public void setInquilino1(Inquilino Inquilino1p)
+    {
+    this.Inquilino1=Inquilino1p;
+    
+    }
+    public Inquilino getInquilino1(){
+    return Inquilino1;
     }
     
-}  
+}

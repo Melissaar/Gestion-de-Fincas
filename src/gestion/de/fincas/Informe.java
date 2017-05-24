@@ -9,13 +9,15 @@ package gestion.de.fincas;
  *
  * @author SENA
  */
-public class GestionDeFincas {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here            
-    }
+public class Informe {
     
-}  
+   private Listado Listado1;
+    public void setListado1(Listado Listado1p)
+    {
+    this.Listado1 = Listado1p;
+    }
+    public Listado getListado1()
+    {
+    return Listado1;
+    }
+}
