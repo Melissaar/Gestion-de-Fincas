@@ -15,8 +15,12 @@ public class GestionDeFincas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here            
     }
     
+<<<<<<< Upstream, based on origin/Eliana
     
 }
+=======
+}  
+>>>>>>> 4fc5bfe version 5
