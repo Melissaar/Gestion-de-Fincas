@@ -15,6 +15,7 @@ public class GestionDeFincas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         // TODO code application logic here            
     }
     
@@ -24,3 +25,9 @@ public class GestionDeFincas {
 =======
 }  
 >>>>>>> 4fc5bfe version 5
+=======
+        // TODO code application logic here
+    }
+    
+}
+>>>>>>> master
